@@ -1,0 +1,1 @@
+This is the distrust lexicon and dataset mentioned in the paper 'Automatically detecting distrust on social media' by Dominique Blok, Julia Broderick-Hale, Thom van Gessel, Gino Kalkman, and Valentina Maccatrozzo.
